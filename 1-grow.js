@@ -1,4 +1,5 @@
-
+// WPU Coding Challenge 2024
+// 1/366
 function countBy(x, n) {
 
     // Buat array kosong untuk menyimpan hasil
